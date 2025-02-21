@@ -1,0 +1,1 @@
+export const baseName="frontend-take-home-fetch"
